@@ -5,13 +5,14 @@ This project was a todoapp to add the tasks , to make a list of your tasks and c
 # UI Includes
 ## single todoapp screen
 ## A textbox to type task
-## A add icon to add task
-## A 
+## An add icon to add task
+## A display screen to display tasks
+## An delete icon to delete the tasks
 
 
 # Prerequisites:
-Node LTS version
-Angular CLI 9+
+## Node LTS version
+## React js
 ### `npm start`
 
 Runs the app in the development mode.\
