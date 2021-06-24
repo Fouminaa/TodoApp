@@ -3,10 +3,10 @@
 This project was a todoapp to add the tasks , to make a list of your tasks and can delete the task when you are done
 
 # UI Includes
-single todoapp screen
-A textbox to type task
-A add icon to add task
-A 
+## single todoapp screen
+## A textbox to type task
+## A add icon to add task
+## A 
 
 
 # Prerequisites:
