@@ -3,16 +3,16 @@
 This project was a todoapp to add the tasks , to make a list of your tasks and can delete the task when you are done
 
 # UI Includes
-## single todoapp screen
-## A textbox to type task
-## An add icon to add task
-## A display screen to display tasks
-## An delete icon to delete the tasks
+- single todoapp screen
+- A textbox to type task
+- An add icon to add task
+- A display screen to display tasks
+- An delete icon to delete the tasks
 
 
 # Prerequisites:
-## Node LTS version
-## React js
+- Node LTS version
+- React js
 ### `npm start`
 
 Runs the app in the development mode.\
