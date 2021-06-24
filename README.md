@@ -1,11 +1,17 @@
 # TodoApp
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was a todoapp to add the tasks , to make a list of your tasks and can delete the task when you are done
 
-## Available Scripts
+##UI Includes
+single todoapp screen
+A textbox to type task
+A add icon to add task
+A 
 
-In the project directory, you can run:
 
+##Prerequisites:
+Node LTS version
+Angular CLI 9+
 ### `npm start`
 
 Runs the app in the development mode.\
