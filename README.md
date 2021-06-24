@@ -2,14 +2,14 @@
 
 This project was a todoapp to add the tasks , to make a list of your tasks and can delete the task when you are done
 
-##UI Includes
+#UI Includes
 single todoapp screen
 A textbox to type task
 A add icon to add task
 A 
 
 
-##Prerequisites:
+#Prerequisites:
 Node LTS version
 Angular CLI 9+
 ### `npm start`
